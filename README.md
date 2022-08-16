@@ -39,13 +39,13 @@ Monitoring in S3 comes with some extra-cool features like "Automated monitoring 
 
 ### Few most advanced feature and Use-cases for S3:
 
-1. Requester Pays Buckets : Learn how to configure a bucket so that a customer pays for the downloads they make.
+1. [Requester Pays Buckets ](https://docs.aws.amazon.com/AmazonS3/latest/userguide/RequesterPaysBuckets.html): Learn how to configure a bucket so that a customer pays for the downloads they make.
 
-2. Using BitTorrent With Amazon S3 : Use BitTorrent, which is an open, peer-to-peer protocol for distributing files.
+2.  [Using BitTorrent With Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/uploading-downloading-objects.html): Use BitTorrent, which is an open, peer-to-peer protocol for distributing files.
 
-3. Build Data Lakes : With a data lake built on Amazon S3, you can use native AWS services to run big data analytics, artificial intelligence (AI), machine learning (ML), high-performance computing (HPC) and media data processing applications to gain insights from your unstructured data sets.
+3.  [Build Data Lakes](https://aws.amazon.com/products/storage/data-lake-storage/) : With a data lake built on Amazon S3, you can use native AWS services to run big data analytics, artificial intelligence (AI), machine learning (ML), high-performance computing (HPC) and media data processing applications to gain insights from your unstructured data sets.
 
-4. S3 as Serverless Storage : Consider S3 as the Serverless Storage and add S3 as much as you can in your Serverless Solution Architecture.
+4.  [S3 as Serverless Storage](https://aws.amazon.com/blogs/compute/building-scalable-serverless-applications-with-amazon-s3-and-aws-lambda/) : Consider S3 as the Serverless Storage and add S3 as much as you can in your Serverless Solution Architecture.
 
 ### I feel like S3 is my ultimate friend in all the AWS services out there. I love Serverless solutions and try my best to incorporate S3 there. Have a look on how the S3-to-Lambda pattern can implement the following business solutions:
 
@@ -53,15 +53,15 @@ Monitoring in S3 comes with some extra-cool features like "Automated monitoring 
 ![awss36](https://user-images.githubusercontent.com/47071968/184672352-77565d98-1ad6-45bc-ab59-bfa0814aec3e.png)
 
 
-1. Translating documents at scale, by using Amazon Translate in response to S3 events.
+1.  [Translating documents at scale](https://aws.amazon.com/blogs/compute/translating-documents-at-enterprise-scale-with-serverless/), by using  [Amazon Translate](https://aws.amazon.com/translate/) in response to S3 events.
 
-2. Automating data imports to DynamoDB tables using objects stored in an S3 bucket.
+2.  [Automating data imports to DynamoDB](https://aws.amazon.com/blogs/compute/creating-a-scalable-serverless-import-process-for-amazon-dynamodb/) tables using objects stored in an S3 bucket.
 
-3. Creating a searchable enterprise document repository, using S3 and Amazon ML services.
+3. [Creating a searchable enterprise document repository](https://aws.amazon.com/blogs/compute/creating-a-searchable-enterprise-document-repository/), using S3 and [Amazon ML services](https://aws.amazon.com/machine-learning/).
 
-4. Automating scalable business workflows, integrating S3 and AWS Step Functions.
+4. [ Automating scalable business workflows](https://aws.amazon.com/blogs/compute/automating-scalable-business-workflows-using-minimal-code/), integrating S3 and [AWS Step Functions ](https://aws.amazon.com/step-functions/?step-functions.sort-by=item.additionalFields.postDateTime&step-functions.sort-order=desc).
 
-5. Converting call center recordings into useful data for analytics, using S3 with Amazon Transcribe.
+5.  [Converting call center recordings](https://aws.amazon.com/blogs/compute/converting-call-center-recordings-into-useful-data-for-analytics/) into useful data for analytics, using S3 with  [Amazon Transcribe](https://aws.amazon.com/transcribe/).
 
 
 ![awss7](https://user-images.githubusercontent.com/47071968/184672672-302f244f-a357-4090-b172-4bc3ab13aae2.jpg)
